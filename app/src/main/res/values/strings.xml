@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">difmaps</string>
+    <color name="black">#000000 </color>
+    <color name="yellow">#F4D603 </color>
+</resources>
